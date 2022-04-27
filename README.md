@@ -1,8 +1,6 @@
-- 👋 It's Nouman
+>  # 👋 It's Nouman
 
----
-📌 I'm a software engineering student. I'm trying to improve my skills via my projects.
----
+
 
 ### Languages
 - C
